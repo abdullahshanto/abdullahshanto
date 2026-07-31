@@ -20,8 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=abdullahshanto&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahshanto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=abdullahshanto&icon=0&color=0)](https://visitcount.itsvg.in)
